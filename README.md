@@ -128,7 +128,6 @@ O usuário é responsável por:
 
 # 📊 2. Modelo Conceitual (MER)
 <img width="1395" height="851" alt="Image" src="https://github.com/user-attachments/assets/43a40018-bfd6-4a66-b062-49bb6d64588d" />
-## 📎 **Modelo Conceitual – MER**
 
 O MER representa:
 
@@ -148,8 +147,7 @@ O MER ajuda a compreender o domínio do sistema e fundamenta a criação do mode
 ---
 
 # 🗂 3. Modelo Lógico Relacional (MR)
-
-📎 **Modelo Lógico – MR**
+<img width="1658" height="758" alt="Image" src="https://github.com/user-attachments/assets/1d3c9642-eb48-43f9-8d12-3f247d3b484a" />
 
 O MR traduz o MER em:
 
