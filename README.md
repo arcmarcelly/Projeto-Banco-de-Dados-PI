@@ -6,7 +6,7 @@ O trabalho integra o **Projeto Integrador**, cujo objetivo é desenvolver uma so
 
 ---
 
-# 📌 1. Minimundo 
+# 1. Minimundo 
 
 O Instituto Agronômico de Pernambuco (IPA) realiza anualmente um programa de aquisição, armazenamento e distribuição de sementes certificadas para agricultores familiares. Para garantir transparência, rastreabilidade e controle logístico, foi necessário desenvolver um **sistema de banco de dados** capaz de registrar e acompanhar todas as etapas do processo.
 
@@ -126,7 +126,7 @@ O usuário é responsável por:
 
 ---
 
-# 📊 2. Modelo Conceitual (MER)
+# 2. Modelo Conceitual (MER)
 <img width="1395" height="851" alt="Image" src="https://github.com/user-attachments/assets/43a40018-bfd6-4a66-b062-49bb6d64588d" />
 
 O MER representa:
@@ -146,7 +146,7 @@ O MER ajuda a compreender o domínio do sistema e fundamenta a criação do mode
 
 ---
 
-# 🗂 3. Modelo Lógico Relacional (MR)
+# 3. Modelo Lógico Relacional (MR)
 <img width="1658" height="758" alt="Image" src="https://github.com/user-attachments/assets/1d3c9642-eb48-43f9-8d12-3f247d3b484a" />
 
 O MR traduz o MER em:
@@ -161,7 +161,7 @@ Este modelo é utilizado como base para o script SQL (DDL) que cria o banco de d
 
 ---
 
-#  👨‍💻 Desenvolvedores
+# Desenvolvedores
 
 * **Carolline Ferreira**
 * **Jai Santos**
