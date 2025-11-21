@@ -127,7 +127,7 @@ O usuário é responsável por:
 ---
 
 # 📊 2. Modelo Conceitual (MER)
-
+<img width="1395" height="851" alt="Image" src="https://github.com/user-attachments/assets/43a40018-bfd6-4a66-b062-49bb6d64588d" />
 ## 📎 **Modelo Conceitual – MER**
 
 O MER representa:
