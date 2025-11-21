@@ -1,4 +1,4 @@
-# 📘 Projeto de Banco de Dados – Programa de Aquisição e Distribuição de Sementes (IPA)
+# Projeto de Banco de Dados – Programa de Aquisição e Distribuição de Sementes (IPA)
 
 Este projeto faz parte dos requisitos finais da unidade curricular **Banco de Dados II**, ministrada pelo **Prof. Danilo Farias Soares da Silva**, no curso de **Análise e Desenvolvimento de Sistemas do Centro Universitário SENAC**.
 
