@@ -163,8 +163,9 @@ Este modelo é utilizado como base para o script SQL (DDL) que cria o banco de d
 
 # Desenvolvedores
 
-* **Carolline Ferreira**
-* **Jai Santos**
-* **Maria Clara Moutinho**
-* **Marcelly Arcanjo**
+* **Carolline Ferreira** - https://github.com/Carolline08
+* **Jai Santos** - https://github.com/azulejai
+* **Marcelly Arcanjo** - https://github.com/arcmarcelly
+* **Maria Clara Moutinho** - https://github.com/maricmoutinho
+
 
